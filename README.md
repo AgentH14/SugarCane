@@ -1,4 +1,4 @@
-# 🍃 SugarCane
+# SugarCane
 
 ![SugarCane Banner](sugarcane-banner.png)
 
