@@ -1,18 +1,12 @@
-Contributing to Paper
+Contributing to SugarCane
 ==========================
-PaperMC is happy you're willing to contribute to our projects. We are usually
-very lenient with all submitted PRs, but there are still some guidelines you
-can follow to make the approval process go more smoothly.
+SugarCane welcomes contributions from the community! We appreciate your interest in helping improve the Minecraft Java server ecosystem. This guide will help you get started with contributing to SugarCane.
 
 ## Use a Personal Fork and not an Organization
 
-Paper will routinely modify your PR, whether it's a quick rebase or to take care
-of any minor nitpicks we might have. Often, it's better for us to solve these
-problems for you than make you go back and forth trying to fix them yourself.
+SugarCane maintainers may need to modify your PR for quick fixes, rebases, or minor adjustments. This helps streamline the review process and ensures consistency with our codebase standards.
 
-Unfortunately, if you use an organization for your PR, it prevents Paper from
-modifying it. To avoid this, please do not use repositories on organizations
-for PRs.
+Unfortunately, if you use an organization for your PR, it prevents SugarCane maintainers from modifying it. To avoid this, please use your personal GitHub account for PRs rather than organization repositories.
 
 ## Requirements
 
