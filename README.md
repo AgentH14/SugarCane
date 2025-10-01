@@ -1,6 +1,6 @@
 # 🍃 SugarCane
 
-![SugarCane Banner](A_digital_graphic_design_banner_for_SugarCane,_a_M.png)
+![SugarCane Banner](sugarcane-banner.png)
 
 > **SugarCane** — A blazing-fast, secure Minecraft Java server platform with built-in support for **Paper** and **Spigot** plugins.
 
